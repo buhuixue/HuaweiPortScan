@@ -9,7 +9,7 @@ scr 0 tem
 dis inter br main
 dis transceiver
 #
-2.使用脚本跑此日志文件即可得用结果
+2.使用脚本跑此日志文件即可得到结果
 #
 XGigabitEthernet4/0/3    XGigabitEthernet4/0/3    up        :10GBASE_LR_SFP       :1310   
 XGigabitEthernet4/0/4    XGigabitEthernet4/0/4    up        :10GBASE_LR_SFP       :1310   
