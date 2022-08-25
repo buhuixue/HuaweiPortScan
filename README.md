@@ -5,9 +5,11 @@
 #
 1.使用以下命令保存日志文件
 #
-scr 0 tem
-dis inter br main
-dis transceiver
+scr 0 tem  
+dis inter br main  
+dis transceiver  
+
+
 #
 2.使用脚本跑此日志文件即可得到结果
 #
